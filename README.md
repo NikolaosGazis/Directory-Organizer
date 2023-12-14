@@ -19,10 +19,9 @@ A shell script designed to organize files within a specified directory. The scri
 2. Navigate to the working directory you have placed the script in.
 3. Run the script with the following command:
 
-```bash
-    ./directory_organizer.sh [directory_name]
+```
+./directory_organizer.sh [directory_name]
 ```
 
 **License**
-
 This project is licensed under the MIT License.
