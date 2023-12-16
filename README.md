@@ -1,4 +1,4 @@
-• Directory Organizer Shell Script •
+# Directory Organizer Shell Script 
 
 This project started as a basic practical tutorial in my Unix classes at University. As part of the course, the goal was to gain hands-on experience with bash scripting.
 
