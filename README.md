@@ -2,7 +2,7 @@
 
 This project started as a basic practical tutorial in my Unix classes at University. As part of the course, the goal was to gain hands-on experience with bash scripting.
 
-**Overview**
+## Overview
 
 A shell script designed to organize files within a specified directory. The script performs the following tasks:
 
@@ -13,7 +13,7 @@ A shell script designed to organize files within a specified directory. The scri
     - The other directory contains the remaining files.
 - Displays the number of files in each of the two new directories.
 
-**Installation**
+## Installation
 
 1. Clone this repository to your local machine.
 2. Navigate to the working directory you have placed the script in.
@@ -23,5 +23,5 @@ A shell script designed to organize files within a specified directory. The scri
 ./directory_organizer.sh [directory_name]
 ```
 
-**License**
+## License
 This project is licensed under the MIT License.
