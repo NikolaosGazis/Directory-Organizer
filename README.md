@@ -6,12 +6,12 @@ This project started as a basic practical tutorial in my Unix classes at Univers
 
 A shell script designed to organize files within a specified directory. The script performs the following tasks:
 
-• Accepts the name of a directory as an input argument, checks if the directory exists, and creates it if not present.
-• Creates two new directories inside the original directory, ensuring unique names.
-• Moves all files in the original directory to the two new directories based on their names:
+- Accepts the name of a directory as an input argument, checks if the directory exists, and creates it if not present.
+- Creates two new directories inside the original directory, ensuring unique names.
+- Moves all files in the original directory to the two new directories based on their names:
     - One directory contains files with names starting with letters A-L (case-insensitive).
     - The other directory contains the remaining files.
-• Displays the number of files in each of the two new directories.
+- Displays the number of files in each of the two new directories.
 
 **Installation**
 
