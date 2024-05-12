@@ -24,4 +24,4 @@ A shell script designed to organize files within a specified directory. The scri
 ```
 
 ## License
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](https://github.com/NikolaosGazis/Directory-Organizer?tab=MIT-1-ov-file).
