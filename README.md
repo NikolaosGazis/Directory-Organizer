@@ -1,6 +1,6 @@
 # Directory Organizer Shell Script 
 
-This project started as a basic practical tutorial in my Unix classes at University. As part of the course, the goal was to gain hands-on experience with bash scripting.
+This program started as a basic practical tutorial in my Unix classes at University. As part of the course, the goal was to gain hands-on experience with bash scripting.
 
 ## Overview
 
@@ -23,5 +23,5 @@ A shell script designed to organize files within a specified directory. The scri
 ./directory_organizer.sh [directory_name]
 ```
 
-## License
+### License
 This project is licensed under the [MIT License](https://github.com/NikolaosGazis/Directory-Organizer?tab=MIT-1-ov-file).
