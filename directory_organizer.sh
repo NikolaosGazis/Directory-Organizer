@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Checks and create the Directory given by the user's first argument.
+# Checks and create the Directory given by the user's first argument #
 if [ ! -d "$1" ];
 then
 	echo "[SYSTEM] Directory: $1 does not exist. Creating..."
@@ -9,7 +9,7 @@ else
 	echo "[SYSTEM] Directory $1 already exists. Moving on..."
 fi
 
-# Checks and create the Directories by the user's second and third argument.
+# Checks and create the Directories by the user's second and third argument #
 if [ ! -d "$2" ]; then
 	echo "[SYSTEM] Directory $2 does not exist. Creating..."
 	mkdir $2
@@ -24,7 +24,7 @@ else
 	echo "[SYSTEM] Directory $3 already exists. Moving on..."
 fi
 
-# Move all files to appropriate directory based on the initial letter of the file.
+# Move all files to appropriate directory based on the initial letter of the file #
 echo "[SYSTEM] Initiating moving files according to the parameters..."
 
 for file in [A-La-l]*; # Files from A-L moved to the second argument directory.
@@ -39,7 +39,7 @@ done
 
 echo "[SYSTEM] All files moved to their respective folders!"
 
-# Count and display the number of files in each of the directories.
+# Count and display the number of files in each of the directories #
 file_count_2=$(ls "$2" | wc -l)
 file_count_3=$(ls "$3" | wc -l)
 
