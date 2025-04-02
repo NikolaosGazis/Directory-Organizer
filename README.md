@@ -1,6 +1,6 @@
-# Directory Organizer Shell Script 
+# Directory Organizer (Using Shell)
 
-This program started as a basic practical tutorial in my Unix classes at University. As part of the course, the goal was to gain hands-on experience with bash scripting.
+This program was a basic practical tutorial in my Unix classes at University.
 
 ## Overview
 
@@ -15,9 +15,9 @@ A shell script designed to organize files within a specified directory. The scri
 
 ## Installation
 
-1. Clone this repository to your local machine.
-2. Navigate to the working directory you have placed the script in.
-3. Run the script with the following command:
+• Clone this repository.
+• Navigate to the working directory you have placed the script in.
+• Run the script with the following command:
 
 ```
 ./directory_organizer.sh [directory_name]
